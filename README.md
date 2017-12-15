@@ -1,2 +1,0 @@
-# idea
-Obtener informacion educativa
